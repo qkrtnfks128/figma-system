@@ -96,6 +96,98 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       }
+    },
+    "lineHeights": {
+      "0": {
+        "$type": "lineHeights",
+        "$value": 40
+      },
+      "1": {
+        "$type": "lineHeights",
+        "$value": 32
+      },
+      "2": {
+        "$type": "lineHeights",
+        "$value": 28
+      },
+      "3": {
+        "$type": "lineHeights",
+        "$value": 26
+      },
+      "4": {
+        "$type": "lineHeights",
+        "$value": 20
+      }
+    },
+    "fontWeights": {
+      "pretendard-0": {
+        "$type": "fontWeights",
+        "$value": "Black"
+      },
+      "pretendard-1": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "pretendard-2": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "pretendard-3": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "$type": "fontSizes",
+        "$value": 14
+      },
+      "1": {
+        "$type": "fontSizes",
+        "$value": 16
+      },
+      "2": {
+        "$type": "fontSizes",
+        "$value": 20
+      },
+      "3": {
+        "$type": "fontSizes",
+        "$value": 24
+      },
+      "4": {
+        "$type": "fontSizes",
+        "$value": 36
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "$type": "letterSpacing",
+        "$value": "0%"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "$type": "paragraphSpacing",
+        "$value": 0
+      }
+    },
+    "textCase": {
+      "none": {
+        "$type": "textCase",
+        "$value": "none"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "$type": "textDecoration",
+        "$value": "none"
+      }
+    },
+    "paragraphIndent": {
+      "0": {
+        "$type": "dimension",
+        "$value": "0px"
+      }
     }
   },
   "행안부/Mode 1": {
